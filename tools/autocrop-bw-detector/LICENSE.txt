@@ -1,0 +1,7 @@
+AutoCrop BW Windows adaptation: CC0 1.0 Universal.
+Original stecman AutoCrop code: CC0 1.0 Universal.
+Source: https://gist.github.com/stecman/91cb5d28d330550a1dc56fa29215cb85
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Bundled Python, NumPy and OpenCV retain their respective licenses.
+See runtime/LICENSE.txt and runtime/Lib/site-packages package license files.
