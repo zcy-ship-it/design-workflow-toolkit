@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品分析汇报框架"
+  short_description: "把产品研究、发散、筛选与决策整理为清晰可答辩的汇报框架"
+  default_prompt: "Use $product-analysis-report to turn my product research and design process into a concise presentation outline."
