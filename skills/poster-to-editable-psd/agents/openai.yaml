@@ -1,0 +1,4 @@
+interface:
+  display_name: "Poster To Editable PSD"
+  short_description: "海报图片拆解复刻为 Photoshop 分层 PSD"
+  default_prompt: "Use $poster-to-editable-psd to rebuild this uploaded poster image as a Photoshop 2026 editable layered PSD."
